@@ -1,0 +1,68 @@
+<!-- CDC ERP Business System – Settings Module -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CDC ERP Business System – Settings</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 500px;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px #ccc;
+    }
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+    input, select, button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      box-sizing: border-box;
+    }
+    #output {
+      margin-top: 20px;
+      color: green;
+      font-weight: bold;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2 data-lang="en">Company Settings</h2>
+    <h2 data-lang="af" style="display:none;">Besigheidsinstellings</h2>
+
+    <label data-lang="en">Company Name</label>
+    <label data-lang="af" style="display:none;">Maatskappy Naam</label>
+    <input type="text" id="companyName" />
+
+    <label data-lang="en">Registration Number</label>
+    <label data-lang="af" style="display:none;">Registrasienommer</label>
+    <input type="text" id="regNumber" />
+
+    <label data-lang="en">VAT Number</label>
+    <label data-lang="af" style="display:none;">BTW Nommer</label>
+    <input type="text" id="vatNumber" />
+
+    <label data-lang="en">Address</label>
+    <label data-lang="af" style="display:none;">Adres</label>
+    <input type="text" id="address" />
+
+    <label data-lang="en">Contact Email</label>
+    <label data-lang="af" style="display:none;">Kontak E-pos</label>
