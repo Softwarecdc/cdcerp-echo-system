@@ -17,3 +17,13 @@ class CompanySettings:
             f"Address: {self.address}\n"
             f"Contact Email: {self.contact_email}"
         )
+
+settings = CompanySettings(
+    company_name="cdc",
+    registration_number="utuytut",
+    vat_number="907097",
+    address="cape town",
+    contact_email="contact@example.com"
+)
+
+print(settings)
