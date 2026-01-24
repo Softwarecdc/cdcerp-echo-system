@@ -1,24 +1,16 @@
-﻿# CDCERP Echo — Module Marketplace
+﻿# CDCERP Echo — Monthly Blog Update
 
-## Control Panel
-- 0 selected
-- [Show Marketplace]
-- [Open Trustee Pro]
+Welcome to the CDCERP Echo System monthly update.
+Audit‑ready, restoration‑safe modules designed for clarity, compliance, and buyer confidence.
 
-### Audit Trail
-- [Undo Last]
-- [Clear Log]
+## Company Settings
+- Company Name: cdc
+- Registration Number: utuytut
+- VAT Number: 907097
+- Address: cape town
+- Contact Email: contact@example.com
 
-### Company Settings
-- **Company Name:** cdc
-- **Registration Number:** utuytut
-- **VAT Number:** 907097
-- **Address:** cape town
-- **Contact Email:** contact@example.com
-
----
-
-## Modules & Apps for Sale
+## Module Marketplace Highlights
 - Trustee Pro — Umbrella app with 160+ trustee features. R459/month
 - Designer — Branding, layout, and visual customization. R199/month
 - Onsite Inspection — Mobile inspections and compliance logging. R229/month
@@ -27,9 +19,7 @@
 - Agent Builder (Sales Edition) — Lead tracking and sales automation. R219/month
 - AI Chatbox — CVs, letters, and document summaries
 - AI Excel Assistant — Spreadsheet automation and analysis
-- Tax Return Module — Python-based SARS submissions
+- Tax Return Module — Python‑based SARS submissions
 
----
-
-**ZAR baseline • auto currency/tax adaptation**
-**Audit-ready • restoration-safe**
+ZAR baseline • auto currency/tax adaptation
+Audit‑ready • restoration‑safe

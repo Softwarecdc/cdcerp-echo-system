@@ -1,0 +1,30 @@
+﻿Subject: Welcome to CDCERP Echo System — Audit‑Ready, Restoration‑Safe Modules
+
+Dear Prospect,
+
+Welcome to CDCERP Echo System.
+We are proud to introduce our audit‑ready, restoration‑safe platform designed for modular rollouts, compliance, and effortless buyer confidence.
+
+Company Settings
+- Company Name: cdc
+- Registration Number: utuytut
+- VAT Number: 907097
+- Address: cape town
+- Contact Email: contact@example.com
+
+Module Marketplace
+- Trustee Pro — Umbrella app with 160+ trustee features. R459/month
+- Designer — Branding, layout, and visual customization. R199/month
+- Onsite Inspection — Mobile inspections and compliance logging. R229/month
+- Hospitality — Bookings, guest management, service coordination. R249/month
+- Campaign Builder — Outreach, marketing, and engagement. R179/month
+- Agent Builder (Sales Edition) — Lead tracking and sales automation. R219/month
+- AI Chatbox — CVs, letters, and document summaries
+- AI Excel Assistant — Spreadsheet automation and analysis
+- Tax Return Module — Python‑based SARS submissions
+
+ZAR baseline • auto currency/tax adaptation
+Audit‑ready • restoration‑safe
+
+Kind regards,
+CDCERP Echo Team
